@@ -1,10 +1,12 @@
 # Resume
 Latex Resume
 
+
 ### Commands to Modify Font Sizes 
 
+
 | Command          |   10pt  |  11pt  |  12pt |
------------------------------------------------
+|------------------|---------|--------|--------|
 | \tiny            |   5      | 6     |  6  |
 | \scriptsize      |   7      | 8     |  8  |
 | \footnotesize    |   8      | 9     |  10 |
