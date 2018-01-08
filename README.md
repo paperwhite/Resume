@@ -1,7 +1,7 @@
 # Resume
 Latex Resume
 
-**To Modify Font Sizes 
+To Modify Font Sizes 
 
 Command             10pt    11pt    12pt
 \tiny               5       6       6
